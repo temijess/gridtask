@@ -4,12 +4,17 @@
 }
 body {
   background-color: aliceblue;
-display: flex;
 place-items: center;
 min-height: 100vh;
 }
 header{
+  
+  text-align: center;
+}
+.head {
+  width: 150px;
   background-color: skyblue;
+  margin: 20px;
 }
 main { 
   display: grid;
